@@ -17,7 +17,7 @@ Effortlessly upload, view, and convert your CSV, TSV, or JSON files in the brows
 
 ## 🔗 Visit the Application
 
-[![Visit App](https://img.shields.io/badge/Visit%20App-TSV--CSV%20Convertor-brightgreen?style=for-the-badge)](https://aniketttt.github.io/TSV-to-CSV-Convertor/)
+[![Visit App](https://img.shields.io/badge/Visit%20App-TSV--CSV%20Convertor-brightgreen?style=for-the-badge)](https://aniketttt.github.io/TSVtoCSV/)
 
 ---
 
